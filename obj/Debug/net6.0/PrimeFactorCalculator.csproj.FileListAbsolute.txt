@@ -1,0 +1,15 @@
+/Users/hyacinthannerelliquete/Projects/PrimeFactorCalculator/PrimeFactorCalculator/obj/Debug/net6.0/PrimeFactorCalculator.csproj.AssemblyReference.cache
+/Users/hyacinthannerelliquete/Projects/PrimeFactorCalculator/PrimeFactorCalculator/obj/Debug/net6.0/PrimeFactorCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hyacinthannerelliquete/Projects/PrimeFactorCalculator/PrimeFactorCalculator/obj/Debug/net6.0/PrimeFactorCalculator.AssemblyInfoInputs.cache
+/Users/hyacinthannerelliquete/Projects/PrimeFactorCalculator/PrimeFactorCalculator/obj/Debug/net6.0/PrimeFactorCalculator.AssemblyInfo.cs
+/Users/hyacinthannerelliquete/Projects/PrimeFactorCalculator/PrimeFactorCalculator/obj/Debug/net6.0/PrimeFactorCalculator.csproj.CoreCompileInputs.cache
+/Users/hyacinthannerelliquete/Projects/PrimeFactorCalculator/PrimeFactorCalculator/bin/Debug/net6.0/PrimeFactorCalculator
+/Users/hyacinthannerelliquete/Projects/PrimeFactorCalculator/PrimeFactorCalculator/bin/Debug/net6.0/PrimeFactorCalculator.deps.json
+/Users/hyacinthannerelliquete/Projects/PrimeFactorCalculator/PrimeFactorCalculator/bin/Debug/net6.0/PrimeFactorCalculator.runtimeconfig.json
+/Users/hyacinthannerelliquete/Projects/PrimeFactorCalculator/PrimeFactorCalculator/bin/Debug/net6.0/PrimeFactorCalculator.dll
+/Users/hyacinthannerelliquete/Projects/PrimeFactorCalculator/PrimeFactorCalculator/bin/Debug/net6.0/PrimeFactorCalculator.pdb
+/Users/hyacinthannerelliquete/Projects/PrimeFactorCalculator/PrimeFactorCalculator/obj/Debug/net6.0/PrimeFactorCalculator.dll
+/Users/hyacinthannerelliquete/Projects/PrimeFactorCalculator/PrimeFactorCalculator/obj/Debug/net6.0/refint/PrimeFactorCalculator.dll
+/Users/hyacinthannerelliquete/Projects/PrimeFactorCalculator/PrimeFactorCalculator/obj/Debug/net6.0/PrimeFactorCalculator.pdb
+/Users/hyacinthannerelliquete/Projects/PrimeFactorCalculator/PrimeFactorCalculator/obj/Debug/net6.0/PrimeFactorCalculator.genruntimeconfig.cache
+/Users/hyacinthannerelliquete/Projects/PrimeFactorCalculator/PrimeFactorCalculator/obj/Debug/net6.0/ref/PrimeFactorCalculator.dll
